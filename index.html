@@ -1,42 +1,98 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="light">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Jacob Titcomb</title>
-  <style>
-    body {
-      max-width: 800px;
-      margin: 40px auto;
-      padding: 0 20px;
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-    }
-    h1 { margin-bottom: 0.2em; }
-    nav a { margin-right: 12px; }
-  </style>
+  <meta
+    name="description"
+    content="Personal academic website for Jacob Titcomb."
+  />
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <h1>Jacob Titcomb</h1>
-  <p>I’m a researcher interested in economics, statistics, and data science.</p>
+  <div class="container">
+    <header class="site-header">
+      <a href="#" class="site-name">Your Name</a>
 
-  <nav>
-    <a href="#about">About</a>
-    <a href="#research">Research</a>
-    <a href="#cv">CV</a>
-    <a href="#contact">Contact</a>
-  </nav>
+      <div class="header-right">
+        <nav class="site-nav" aria-label="Main navigation">
+          <a href="#about">About</a>
+          <a href="#research">Research</a>
+          <a href="#projects">Projects</a>
+          <a href="#contact">Contact</a>
+        </nav>
 
-  <h2 id="about">About</h2>
-  <p>In progress...</p>
+        <button
+          id="theme-toggle"
+          class="theme-toggle"
+          type="button"
+          aria-label="Toggle light and dark theme"
+        >
+          <span id="theme-toggle-text">Dark mode</span>
+        </button>
+      </div>
+    </header>
 
-  <h2 id="research">Research</h2>
-  <p>In progress...</p>
+    <main>
+      <section class="hero card">
+        <p class="eyebrow">Economics · Statistics · Research</p>
+        <h1>Clean, modern, and readable.</h1>
+        <p class="hero-text">
+          I’m Jacob, a researcher interested in statistics, economics, and data science. This site highlights my research, projects, and contact information.
+        </p>
 
-  <h2 id="cv">CV</h2>
-  <p><a href="cv.pdf">Download my CV</a></p>
+        <div class="button-row">
+          <a class="btn btn-primary" href="#research">View research</a>
+          <a class="btn btn-secondary" href="cv.pdf" target="_blank" rel="noopener noreferrer">
+            Download CV
+          </a>
+        </div>
+      </section>
 
-  <h2 id="contact">Contact</h2>
-  <p>Email: jtitcomb03@gmail.com</p>
+      <section id="about" class="card section">
+        <h2>About</h2>
+        <p>
+          Biography in progress...
+        </p>
+      </section>
+
+      <section id="research" class="card section">
+        <h2>Research</h2>
+
+        <article class="item">
+          <h3>Research #</h3>
+          <p>
+            Research projects in progress...
+          </p>
+        </article>
+      </section>
+
+      <section id="projects" class="card section">
+        <h2>Projects</h2>
+
+        <article class="item">
+          <h3>Data Project #</h3>
+          <p>
+            Projects in progres...
+          </p>
+        </article>
+
+      </section>
+
+      <section id="contact" class="card section">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:jtitcomb03@gmail.com">jtitcomb03@example.com</a></p>
+        <p>GitHub: <a href="https://github.com/jacobedt" target="_blank" rel="noopener noreferrer">github.com/jacobedt</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/jacob-titcomb/" target="_blank" rel="noopener noreferrer">linkedin.com/in/jacob-titcomb</a></p>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>© <span id="year"></span> Jacob Titcomb</p>
+    </footer>
+  </div>
+
+  <script src="script.js"></script>
 </body>
 </html>
