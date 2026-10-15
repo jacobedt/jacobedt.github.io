@@ -4,7 +4,7 @@ name: &name Jacob T
 email: jtitcomb03@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Jacob Titcomb's site
-baseulr: ""
+baseurl: ""
 url: https://jacobedt.github.io
 site_theme: dark
 
