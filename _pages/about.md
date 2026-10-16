@@ -3,9 +3,6 @@ layout: home
 author_profile: true
 permalink: /
 title: About
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 Last updated: 2026 Oct 16. 
