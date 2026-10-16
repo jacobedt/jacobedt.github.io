@@ -42,7 +42,7 @@ I previously worked as an RA to Prof. Randall Rojas, contributing to research st
 
 ## About me
 
-In my free time, I enjoy sailing, hiking, and playing the violin. I started violin at 3 and sailing soon after (14). I would consider myself a audiophile, bibliophile, and cinephile. I love reading classics and modern literature, and movie-wise I always enjoy thought-provoking dramas, surrealism, experimental films, and foreign films. I am the #1 Radiohead and Phoebe Bridgers fan.
+In my free time, I enjoy sailing, hiking, and playing the violin. I started violin at 3 and sailing soon after (14). I would consider myself a audiophile, bibliophile, and cinephile. I love reading classics and modern literature, and movie-wise I always enjoy thought-provoking dramas, surrealism, experimental films, and foreign films. Lastly, I enjoy traveling. My profile bio photo is of me at [Zhangjiajie National Forest Park](https://en.wikipedia.org/wiki/Zhangjiajie) from my trip to China earlier this year.
 
 
 
