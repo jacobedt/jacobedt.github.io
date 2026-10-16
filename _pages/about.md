@@ -1,8 +1,10 @@
 ---
-layout: home
-author_profile: true
 permalink: /
 title: About
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 Last updated: 2026 Oct 16. 
