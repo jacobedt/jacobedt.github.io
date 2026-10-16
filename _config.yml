@@ -6,7 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Jacob Titcomb's site
 baseurl: ""
 url: https://jacobedt.github.io
-site_theme: dark
+site_theme: default
 
 
 locale                   : "en-US"
@@ -88,7 +88,7 @@ author:
   location         : "Richmond, VA"
   employer         : "Richmond Fed"
   uri              : # URL
-  email            : "jtitcomb03@gmail.org" 
+  email            : "jtitcomb03@gmail.com" 
 
   # Academic websites
   academia         : # URL
