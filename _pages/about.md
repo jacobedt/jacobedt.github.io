@@ -18,7 +18,7 @@ Here are the projects I have been working on:
 * Spectral estimation of local projections, to evaluate the robustness of business-cycle instruments.
 * Clustering methods, applied to estimating demand for brick-and-mortar establishments with foot traffic.
 * Causal inference with hidden treatments and spillovers, in studying the effects of tariffs.
-* A Bayesian learning model for knowledge acquisition with AI.
+* A Bayesian learning model for information acquisition with AI.
 * Market reactions to stalemates over fiscal policy in Congress.
 
 ## Links
