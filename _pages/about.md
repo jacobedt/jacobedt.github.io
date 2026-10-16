@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Last updated: 2026 Oct 16. 
+Last updated: 2026 Oct 16
 
-I am a second-year Research Associate in the Economic Research Department at the Federal Reserve Bank of Richmond, working with Dr. Marina Azzimonti, Dr. Thomas Lubik, and Dr. Paul Ho. Previously, I was an undergraduate at UCLA studying Data Theory (Mathematics and Statistics) and Economics. My research interests lie in the development of advanced statistical tools for use in the social sciences, particularly through Bayesian methods, time series forecasting, machine learning, and causal inference.
+I am a second-year Research Associate in the Economic Research Department at the Federal Reserve Bank of Richmond, working with Dr. Marina Azzimonti, Dr. Thomas Lubik, and Dr. Paul Ho. Previously, I was an undergraduate at UCLA studying Data Theory (Mathematics and Statistics) and Economics. My research interests lie in the development of advanced statistical tools for use in the social sciences, particularly Bayesian methodologies, time series forecasting, machine learning, and causal inference techniques.
 
 I am applying to PhD programs in Fall 2026.
 
@@ -35,13 +35,13 @@ This site is a mix of the [Minimal Mistakes Jekyll Theme](https://mmistakes.gith
 
 ## Background
 
-I graduated from UCLA in 2025 as a Data Theory & Economics double major. At UCLA, I was outreach coordinator for UCLA YDSA and a member of the Filipino cultural club Samahang Pilipino. I was also on the sailing team for a year.
+I graduated from UCLA in 2025 as a Data Theory & Economics double major. At UCLA, I was outreach coordinator for UCLA YDSA and a member of the Filipino cultural club Samahang Pilipino. I was also active in UMSA, the Statistics Club, and the Bruin Film Society.
 
-I previously worked as an RA to Prof. Randall Rojas, contributing to research studying the casino industry using machine learning time series models. I was a TA/reader for his course ECON 144 on time series analysis and forecasting in Fall 2024 and Winter 2025, and I designed his course materials for ECON 430, a master's-level course on econometrics with Python.
+I previously worked as an RA to Prof. Randall Rojas, contributing to research studying the casino industry using machine learning time series models. I was a TA/reader for his course ECON 144 (time series analysis and forecasting) in Fall 2024 and Winter 2025, and I designed his course materials for ECON 430, a master's-level course on econometrics with Python.
 
 ## About me
 
-In my free time, I enjoy sailing, hiking, and playing the violin. I started violin at 3 and sailing soon after (14). I would consider myself a audiophile, bibliophile, and cinephile. I love reading classics and modern literature, and movie-wise I always enjoy thought-provoking dramas, surrealism, experimental films, and foreign films. Lastly, I enjoy traveling. My profile bio photo is of me at [Zhangjiajie National Forest Park](https://en.wikipedia.org/wiki/Zhangjiajie) from my trip to China earlier this year.
+In my free time, I enjoy sailing, hiking, and playing the violin. I would consider myself an audiophile, bibliophile, and cinephile. I love reading classics and modern literature, and movie-wise I always enjoy thought-provoking dramas, surrealism, experimental films, and foreign films. Lastly, I enjoy traveling. My profile bio photo is of me at [Zhangjiajie National Forest Park](https://en.wikipedia.org/wiki/Zhangjiajie) from my trip to China earlier this year.
 
 
 
