@@ -24,7 +24,7 @@ Here are the projects I have been working on:
 ## Links
 
 - [ORCID](https://orcid.org/0009-0006-5130-7143)
-- [LinkedIn](linkedin.com/in/jacob-titcomb)
+- [LinkedIn](https://www.linkedin.com/in/jacob-titcomb/)
 - [jacobedt on GitHub](https://github.com/jacobedt)
 
 ## About my site
