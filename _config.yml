@@ -142,10 +142,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
+  publications:
+    title: 'Publications'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Manuscripts'
+  policy:
+    title: 'Policy Publications'
   conferences:
     title: 'Conference Papers'
 
