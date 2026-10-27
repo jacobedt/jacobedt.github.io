@@ -1,7 +1,7 @@
 ---
 title: "U.S. Import Tariffs in 2025: Realized Tariff Rates, Import Prices, and Local Labor-Market Effects"
 collection: publications
-category: manuscripts
+category: publications
 permalink: /publication/2026-04-us-import-tariffs-2025
 excerpt: 'This paper studies the 2025 import tariffs, their pass-through, and their effects on local labor-market.'
 date: 2026-04-22
