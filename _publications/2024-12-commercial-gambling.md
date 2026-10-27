@@ -2,6 +2,7 @@
 title: "Analyzing U.S. Casino Revenue Trends: A Panel Data and Forecasting Study of Pre- and Post-Pandemic Economic Shifts"
 collection: publications
 category: manuscripts
+unpublished: true
 permalink: /publication/2024-12-commercial-gambling
 excerpt: 'With Randall Rojas. This paper studies changes in commercial gambling revenues at the state- and national-level, identifying time series change points, analyzing cross-state heterogeneity, and forecasting future values.'
 date: 2024-12-31
