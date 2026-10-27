@@ -4,7 +4,7 @@ collection: publications
 category: publications
 unpublished: false
 permalink: /publication/2026-04-us-import-tariffs-2025
-excerpt: 'This paper studies the 2025 import tariffs, their pass-through, and their effects on local labor-market.'
+excerpt: 'Coauthored with Marina Azzimonti. This paper studies the 2025 import tariffs, their pass-through, and their effects on local labor-market.'
 date: 2026-04-22
 venue: 'Richmond Fed Working Paper Series'
 paperurl: 'http://dx.doi.org/10.2139/ssrn.6630174'
